@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>NUMAN KHAN - Portfolio</title>
+    <title> - Portfolio</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 0; background: #f7f7f8; }
         header { background: #222; color: #fff; padding: 40px 0 20px 0; text-align: center; }
@@ -18,8 +18,8 @@
 </head>
 <body>
     <header>
-        <h1>NUMAN KHAN</h1>
-        <p>COLLEGE STUDENT, 2nd YEAR, BCA DEPARTMENT</p>
+        <h1></h1>
+        <p> </p>
     </header>
     <nav>
         <a href="#about">About Me</a>
@@ -29,7 +29,7 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-        I am a passionate and motivated college student in my second year of the BCA program. Driven by curiosity and a desire to grow, I embrace new challenges with confidence and determination. I am always eager to learn new skills and contribute to exciting projects, aiming to make a positive impact wherever I go.
+        
         </p>
     </section>
     <section id="projects">
@@ -45,11 +45,11 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:m.numankhan2007@gmail.com">m.numankhan2007@gmail.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/numan-khan-a5396937b/" target="_blank">numan-khan-a5396937b</a></p>
+        <p>Email: <a href=></a></p>
+        <p>LinkedIn: <a href="</a></p>
     </section>
     <footer>
-        &copy; 2025 NUMAN KHAN. All rights reserved.
+        &copy; . All rights reserved.
     </footer>
 </body>
 </html>
